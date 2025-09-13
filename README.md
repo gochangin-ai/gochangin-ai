@@ -17,7 +17,14 @@ Hello, I'm ChangIn Ko, dreaming of becoming a ML engineer
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 
 ### Platform
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&log=linux&logoColor=black"/>
+
+## 🏆 Award  
+
+| 연도 | 대회명 | 주최 | 내용 | 수상 | 
+| :------: | :------: | :------: | :------: | :------: |
+| 2022 | 2022 SW중심대학 공동AI경진대회 | 과학기술정보통신부 | 한글 이미지 OCR 솔루션 모델 개발 | 정보통신기획평가원장상(최우수상) | 
+| 2024 | 2024 국방 AI 경진대회 | 대한민국 국방부 | AI전차 활용 모의 군사 임무 수행 (전차 자율주행, 적군/아군식별, 적군 전차 파괴) | 해군 참모종장상(우수상) | 
 
 ## 📚 Education
 
@@ -27,10 +34,4 @@ Hello, I'm ChangIn Ko, dreaming of becoming a ML engineer
 | 2025.04 ~ 2025.06 | KAIST SW교육센터  | 군 장병 AI·SW 중점과정 | - | 수료 |
 | 2025.07 ~ 2023.08 | LG AI Research | LG Aimers/Data Intelligence 7기 | - | 수료 |
 
-## 🏆 Award  
-
-| 연도 | 대회명 | 주최 | 내용 | 수상 | 
-| :------: | :------: | :------: | :------: | :------: |
-| 2022 | 2022 SW중심대학 공동AI경진대회 | 과학기술정보통신부 | 한글 이미지 OCR 솔루션 모델 개발 | 정보통신기획평가원장상(최우수상) | 
-| 2024 | 2024 국방 AI 경진대회 | 대한민국 국방부 | AI전차 활용 모의 군사 임무 수행 (전차 자율주행, 적군/아군식별, 적군 전차 파괴) | 해군 참모종장상(우수상) | 
 
